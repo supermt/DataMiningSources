@@ -1,0 +1,31 @@
+# ./noise/origin_feature_selected_addnoise5.arff
+accuracy,precesion,recall,specificity
+0.9017341040462428 0.9016393442622951 0.8333333333333334 0.9439252336448598
+
+# ./noise/origin_feature_selected_addnoise10.arff
+accuracy,precesion,recall,specificity
+0.8323699421965318 0.8166666666666667 0.7313432835820896 0.8962264150943396
+./noise/origin_feature_selected_addnoise15.arff
+accuracy,precesion,recall,specificity
+0.7687861271676301 0.7333333333333333 0.6470588235294118 0.8476190476190476
+./noise/origin_feature_selected_addnoise20.arff
+accuracy,precesion,recall,specificity
+0.7341040462427746 0.7413793103448276 0.581081081081081 0.8484848484848485
+./noise/origin_feature_selected_addnoise25.arff
+accuracy,precesion,recall,specificity
+0.7109826589595376 0.7241379310344828 0.5526315789473685 0.8350515463917526
+./noise/origin_feature_selected_addnoise30.arff
+accuracy,precesion,recall,specificity
+0.6705202312138728 0.6964285714285714 0.4936708860759494 0.8191489361702128
+./noise/origin_feature_selected_addnoise35.arff
+accuracy,precesion,recall,specificity
+0.6647398843930635 0.6851851851851852 0.47435897435897434 0.8210526315789474
+./noise/origin_feature_selected_addnoise40.arff
+accuracy,precesion,recall,specificity
+0.6127167630057804 0.627906976744186 0.34615384615384615 0.8315789473684211
+./noise/origin_feature_selected_addnoise45.arff
+accuracy,precesion,recall,specificity
+0.5549132947976878 0.5 0.2727272727272727 0.78125
+./noise/origin_feature_selected_addnoise50.arff
+accuracy,precesion,recall,specificity
+0.43352601156069365 0.43790849673202614 0.8481012658227848 0.0851063829787234
